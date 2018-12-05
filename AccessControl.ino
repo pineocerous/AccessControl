@@ -7,9 +7,6 @@ WIEGAND wg;
 #define LOCK 6  //Lock relay +5v Out on Pin 6
 
 unsigned long friendlyCode [] = {     //Enter your Friendly RFID card decimal values here
-  7744268,
-  7744269,
-  10846262
 };
 
 
